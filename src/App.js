@@ -1,4 +1,5 @@
 import React from "react";
+import { UsersContextProvider } from "./context";
 import Navbar from "./components/navbar/Navbar";
 import Jumbotron from "./components/jumbotron/Jumbotron";
 import UsersList from "./components/users/UsersList";
